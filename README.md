@@ -234,3 +234,6 @@ This repository serves as the official landing page for pin 'em up. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of pin 'em up today!**
+
+---
+**Last updated:** 2026-09-10 06:46:28 UTC
